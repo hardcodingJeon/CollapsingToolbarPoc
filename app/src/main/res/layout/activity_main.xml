@@ -19,6 +19,8 @@
             android:layout_height="match_parent"
             app:contentScrim="?attr/colorPrimary"
             app:layout_scrollFlags="scroll|exitUntilCollapsed|snap">
+            <!-- app:layout_scrollFlags="scroll|exitUntilCollapsed|snap"  스크롤할때 이미지 있는 부분까지만 무너짐-->
+
 
             <ImageView
                 android:layout_width="match_parent"
